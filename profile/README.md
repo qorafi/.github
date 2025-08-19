@@ -1,11 +1,5 @@
 # 🌟 QoraFi Protocol
 
-<p align="center">
-  <img width="2000" height="600" alt="QoraFi Protocol Banner" src="https://github.com/user-attachments/assets/a5f84f63-a804-4aca-a1dd-c44c6897ceeb" />
-</p>
-
-<div align="center">
-
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Security](https://img.shields.io/badge/Security-Audited-green.svg)](#security)
 [![DeFi](https://img.shields.io/badge/DeFi-Protocol-purple.svg)](#features)
@@ -18,7 +12,8 @@
 </div>
 
 <p align="center">
-  <img width="400" height="550" alt="QoraFi Ecosystem Diagram" src="https://github.com/user-attachments/assets/33e280af-5109-46e1-95bc-75d36dd647e5" />
+<img width="512" height="702" alt="download (1)" src="https://github.com/user-attachments/assets/e866e895-e078-4aa2-b4f9-a75d4a0b1d99" />
+
 </p>
 
 ---
